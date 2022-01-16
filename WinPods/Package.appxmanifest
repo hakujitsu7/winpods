@@ -11,14 +11,14 @@
   IgnorableNamespaces="uap mp genTemplate">
 
   <Identity
-    Name="E0DCE1F3-EAC2-47C8-BFD1-1D180D9C9248"
-    Publisher="CN=Shin Jinhyeok"
+    Name="2141ShinJinhyeok.AirPodsforWindows"
+    Publisher="CN=1F414CB3-85F2-4355-A9A9-121FAC8B4D99"
     Version="1.0.0.0" />
 
-  <mp:PhoneIdentity PhoneProductId="E0DCE1F3-EAC2-47C8-BFD1-1D180D9C9248" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
+  <mp:PhoneIdentity PhoneProductId="a34814c3-fe5c-4a93-9c5d-c14f710a98cc" PhonePublisherId="00000000-0000-0000-0000-000000000000"/>
 
   <Properties>
-    <DisplayName>WinPods</DisplayName>
+    <DisplayName>AirPods for Windows</DisplayName>
     <PublisherDisplayName>Shin Jinhyeok</PublisherDisplayName>
     <Logo>Assets\StoreLogo.png</Logo>
   </Properties>
